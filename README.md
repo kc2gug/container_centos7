@@ -1,1 +1,1 @@
-# container_centos7
+# container_minecraft
