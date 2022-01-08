@@ -1,6 +1,6 @@
 # PAPER MC
 
-/jdk-17.0.1/bin/java -Xmx2048M -Xms2048M   -jar /minecraft/pamer_mc nogui
+/jdk-17.0.1/bin/java -Xmx2048M -Xms2048M   -jar /minecraft/paper_mc.jar nogui
 
 # DEFAULT MC
 
