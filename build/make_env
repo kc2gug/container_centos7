@@ -2,4 +2,4 @@ SHELLARGS?=-i -t
 repo_host=docker.io
 org_name=kc2gug
 repo_name=centos_core
-version=0.3
+version=0.4
